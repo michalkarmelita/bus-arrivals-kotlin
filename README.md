@@ -2,7 +2,7 @@
 This is a playground for testing MVVM architecture, android architecture components and Kotlin language in Android development.
 
 ## App functionality 
-Application is searching for bus stops around the user and allows to display current arrivals for selected bus stop. 
+Application is searching for bus stops around the user (London only) and allows to display current arrivals for selected bus stop. 
 Data is provided by TFL Api.
 
 ### Features
